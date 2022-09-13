@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Student of Gachon University
+- Student of Gachon University
 
 I'm taking an Open Source SW course and learning about GitHub.
