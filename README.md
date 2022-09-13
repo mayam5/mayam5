@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - Student of Gachon University
 
-I'm taking an Open Source SW course and learning about GitHub.
+  I'm taking an Open Source SW course and learning about GitHub.
